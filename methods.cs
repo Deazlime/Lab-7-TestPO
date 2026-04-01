@@ -6,7 +6,7 @@ namespace lab
 
         public static double Sin(double x)
         {
-            double res=0;
+            double res=1;
             double term=x;
             for (int n=0;n<max;n++)
             {
